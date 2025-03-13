@@ -1,2 +1,2 @@
 # Coin-Flip
-For Day 5 of my 30-day challenge, I built a Coin Flip Game that simulates the classic coin toss experience! This project combines simple game logic with an engaging, interactive UI.
+I’m back at it! Kicking off my 30-day coding challenge again from the start, and my first project is a Coin Flip Game!
